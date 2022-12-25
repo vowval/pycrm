@@ -1,0 +1,2 @@
+# pycrm
+Django CRM

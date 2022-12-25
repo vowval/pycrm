@@ -28,7 +28,6 @@ Temporary Items
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
-accounts/__pycache__/
 # C extensions
 *.so
 
@@ -83,6 +82,7 @@ target/
 *.pot
 *.pyc
 __pycache__/
+accounts/__pycache__/
 local_settings.py
 
 .env
